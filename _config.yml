@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: "¿µÐ¡¹ã"
+subtitle: "kenkangxgwe's space"
 description:
-author: John Doe
-language:
-timezone:
+author: kenkangxgwe
+language: zh-CN
+timezone: UTF+8
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://kenkangxgwe.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -68,4 +68,11 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: https://github.com/kenkangxgwe/kenkangxgwe.github.io
+  branch: public
+  message:
+  name: kenkangxgwe
+  email: kenkangxgwe@gmail.com
+  extend_dirs:
+  ignore_hidden: false # default is true
