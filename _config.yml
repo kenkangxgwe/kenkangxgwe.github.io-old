@@ -4,11 +4,11 @@
 
 # Site
 title: ¿µÐ¡¹ã
-subtitle: "kenkangxgwe's space"
+subtitle: kenkangxgwe's space
 description:
 author: kenkangxgwe
 language: zh-CN
-timezone: UTF+8
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
