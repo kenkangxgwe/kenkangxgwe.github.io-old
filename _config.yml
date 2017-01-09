@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: øµ–°π„
-subtitle: kenkangxgwe's space
+title: "Â∫∑Â∞èÂπø"
+subtitle: "kenkangxgwe's space"
 description:
 author: kenkangxgwe
 language: zh-CN
@@ -70,7 +70,7 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/kenkangxgwe/kenkangxgwe.github.io
-  branch: public
+  branch: master
   message:
   name: kenkangxgwe
   email: kenkangxgwe@gmail.com
